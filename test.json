@@ -1,0 +1,22 @@
+{
+  "data": {
+    "oldValue": {},
+    "updateMask": {},
+    "value": {
+      "createTime": "2019-02-27T13:39:41.258191Z",
+      "fields": {
+        "documentName": { "stringValue": "name1" },
+        "documentType": { "stringValue": "type1" },
+        "fileName": { "stringValue": "test.png" }
+      },
+      "name": "projects/qtg-poc-ea-project/databases/(default)/documents/filemetadata/hIqx1kEEEBh1CH6w8wQt",
+      "updateTime": "2019-02-27T13:39:41.258191Z"
+    }
+  },
+  "eventId": "44500422-4671-4171-aa99-42cbbe1e1bf3-0",
+  "eventType": "providers/cloud.firestore/eventTypes/document.create",
+  "notSupported": {},
+  "params": { "file": "hIqx1kEEEBh1CH6w8wQt" },
+  "resource": "projects/qtg-poc-ea-project/databases/(default)/documents/filemetadata/hIqx1kEEEBh1CH6w8wQt",
+  "timestamp": "2019-02-27T13:39:41.258191Z"
+}
